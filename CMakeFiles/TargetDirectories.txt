@@ -1,0 +1,3 @@
+/home/parallels/Desktop/CG2021_Zadorin/msu_cmc_cg_2021/template1_cpp/CMakeFiles/rebuild_cache.dir
+/home/parallels/Desktop/CG2021_Zadorin/msu_cmc_cg_2021/template1_cpp/CMakeFiles/edit_cache.dir
+/home/parallels/Desktop/CG2021_Zadorin/msu_cmc_cg_2021/template1_cpp/CMakeFiles/main.dir
